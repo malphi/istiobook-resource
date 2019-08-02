@@ -1,1 +1,1 @@
-# istiobook-resource
+# 《Istio实战指南》代码资源
